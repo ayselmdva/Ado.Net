@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1aMy+AY3xVMsfAsYc0MpEpDgl6mjKlytXt0DtizmPbL3xsyp33ywXCqWiYjU9i48W+0VKbiLop81qVYLx7XARQ==",
+  "dgSpecHash": "gR4vRXNvnUF7WNfrRTlMmrufeubh5FCytXZldEsy0R8s0bBcQWgQPbA9we8CofWhjcUoyMCcQ67r1+tAkyxtew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Cinema\\Cinema\\Cinema.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Ado.Net\\Cinema\\Cinema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

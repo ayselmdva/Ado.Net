@@ -1,4 +1,5 @@
 ﻿using System.Data.SqlClient;
+using Cinema.Models;
 
 namespace Cinema
 {
